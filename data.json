@@ -1,0 +1,26 @@
+{
+  "collection": [
+    {
+      "firstName": "Tom",
+      "lastName": "Smith",
+      "age": 27
+    },
+    {
+      "firstName": "Shelley",
+      "lastName": "Johnson",
+      "age": 47
+    },
+    {
+      "firstName": "Amil",
+      "lastName": "Tagunda",
+      "age": 35
+    },
+    {
+      "firstName": "Symphry",
+      "lastName": "Allen",
+      "age": 42
+    }
+
+
+  ]
+}
