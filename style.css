@@ -1,0 +1,29 @@
+body {
+
+}
+.LayoutCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+}
+
+.Grid__Row--zebra {
+    background-color: #efefef;
+}
+.GridHeader {
+    background-color: #000060;
+}
+.GridHeader th, .Grid__Cell {
+    padding:1rem;
+    font-size:16px;
+}
+.LinkButton {
+    border:0;
+    background:transparent;
+    color:#ffffff;
+    cursor:pointer;
+    font-size:16px;
+}
+footer p {
+    text-align:center;color:#989898;font-size:12px;
+}
