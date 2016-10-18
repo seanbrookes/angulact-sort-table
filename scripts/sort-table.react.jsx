@@ -51,8 +51,8 @@ var SortTable = React.createClass({
 
     /*
     * Main table component wrapper code
-    * note the binding to srotIt method in the onClick event attributes
-    *  user .bind to pass the value of the column name to sort
+    * note the binding to sortIt method in the onClick event attributes
+    *  use .bind to pass the value of the column name to sort
     * */
     return (
       <table>
